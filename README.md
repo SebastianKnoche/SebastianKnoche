@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sebastian.
-- 👀 I’m interested in data analysis and visualisation through R.
+- 👀 I’m interested in data analysis and data visualisation through R.
 - 🌱 I’m currently learning R, econometry and corporate finance.
 - 💞️ I’m looking to collaborate on exciting beginner projects.
-- 📫 Just send me a direct message.
+- 📫 Just mail me.
 
 I'll stick to this for now... maybe this description will get some more love soon.
 
