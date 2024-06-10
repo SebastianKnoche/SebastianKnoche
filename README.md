@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian.
-- 👀 I’m interested in data analysis and data visualisation through R.
-- 🌱 I’m currently learning R, econometry and corporate finance.
+- 👀 I’m interested in data analysis and data visualisation through R, and python.
+- 🌱 I’m currently learning python, R, econometry and corporate finance.
 - 💞️ I’m looking to collaborate on exciting beginner projects.
 - 📫 Just mail me.
 
